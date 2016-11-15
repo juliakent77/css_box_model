@@ -1,3 +1,7 @@
+body {
+  text-align: center;
+}
+
 div.text-box {
   width: 500px;
   background: url(https://s-media-cache-ak0.pinimg.com/originals/b6/b7/d7/b6b7d76fd1732efc4b728ce3dc3370c0.jpg);
@@ -5,4 +9,8 @@ div.text-box {
   background-size: cover;
   background-position: center;
   color: white;
+  text-align: justify;
+  padding: 30px;
+  font-family: 'Open Sans', sans-serif;
+  display: inline-block;
 }
