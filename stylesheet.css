@@ -13,4 +13,10 @@ div.text-box {
   padding: 30px;
   font-family: 'Open Sans', sans-serif;
   display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+div.text-box > p {
+  margin: 0;
 }
